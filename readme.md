@@ -7,7 +7,7 @@ Well there are all the things I have found useful.
 *   Inside classes
     *   CamelCase
 
-The question is what about quotes, single or double?
+And double quotes.
 
 # Tools
 *   [Domain generator](https://www.dotomator.com/web20.html)
