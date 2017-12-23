@@ -2,8 +2,8 @@
 Well there are all the things I have found useful.
 
 # Code style
-**Outside classes** Lowercase with underscore  
-**Inside classes** CamelCase
+**Outside classes** lowercase with underscore  
+**Inside classes** camelCase
 
 And double quotes.
 
