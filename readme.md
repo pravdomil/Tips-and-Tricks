@@ -1,13 +1,13 @@
 # Programming tips
 Well there are all the things I have found useful.
 
-# Code style
+## Code style
 **Outside classes** lowercase with underscore  
 **Inside classes** camelCase
 
 And double quotes.
 
-# Tools
+## Tools
 *   [Domain generator](https://www.dotomator.com/web20.html)
 *   [Dead link checker](http://www.deadlinkchecker.com/)
 *   [What's my DNS](https://www.whatsmydns.net)
@@ -15,7 +15,7 @@ And double quotes.
 *   [Front‑end code quality](http://yellowlab.tools)
 *   [regex101.com](https://www.regex101.com)
  
-# Resources
+## Resources
 *   [Can I use](http://caniuse.com/)
 *   [HTML5.diff](https://www.w3.org/TR/html5-diff/)
 *   [Command line args formatting](http://docopt.org/)
@@ -40,7 +40,7 @@ And double quotes.
 *   [WebApps base css](https://code.google.com/p/chromium/codesearch#chromium/src/extensions/renderer/resources/platform_app.css)
 *   [Snakes, Neural Networks and Genetic Algorithms](https://www.youtube.com/watch?v=BBLJFYr7zB8)
 
-# macOS
+## macOS
 *   [Swift introduction](http://www1.cs.columbia.edu/~aho/cs6998/Lectures/14-09-22_Roark_Swift.pdf)
 *   [Swift basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
 *   [Layer Backed Views](http://www.cocoacrumbs.com/blog/?p=106)
@@ -49,13 +49,13 @@ And double quotes.
 *   [Apple sample codes for OS X](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
 *   [Receiving and modifying key presses](http://osxbook.com/book/bonus/chapter2/alterkeys/)
 
-# JavaScript
+## JavaScript
 *   [The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html)
 *   [Coding style](https://github.com/feross/standard)
 *   [ES6 features](http://es6-features.org/)
 *   [ES6 Support matrix](https://kangax.github.io/compat-table/es6/)
 
-# Node.js
+## Node.js
 *   [Reference all](https://nodejs.org/api/all.html)
 *   [From PHP to Node.js](https://strongloop.com/strongblog/node-js-php-get-started/)
 *   [Closure compiler](http://closure-compiler.appspot.com/home)
@@ -68,7 +68,7 @@ And double quotes.
 *   [Hashbang](https://en.wikipedia.org/wiki/Shebang_(Unix))
     *   \#!/usr/bin/env node
 
-# Frontend
+## Frontend
 *   Typography
     *   [Web typography](http://webtypography.net/toc/)
     *   [Baseline basics on Smashing magazine](http://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
@@ -88,17 +88,17 @@ And double quotes.
 *   [Role of animation](https://www.youtube.com/watch?v=GxOq1bnlZXk)
 *   [Polyfill.io](https://polyfill.io/v2/docs)
 
-# Web done right
+## Web done right
 - [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
 - [Vanilla JS](http://vanilla-js.com)
 - [CDN & HTTPs 2.0](https://www.cloudflare.com)
 
-# Optional
+## Optional
 - [Rembased design](http://rembased.pravdomil.com)
 - [Pravidla typografie](https://pravidla-typografie.pravdomil.com)
 - [Ochrana jednoznakovek](https://github.com/pravdomil/wp-no-orphans)
 
-# Ubuntu server
+## Ubuntu server
 Initial setup
 ```
 	ssh‑copy‑id root@$IP
