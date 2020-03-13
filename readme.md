@@ -2,7 +2,7 @@
 
 # Help
 
-Some helpful resources
+Things I 
   
 </div>
 
@@ -14,86 +14,12 @@ Some helpful resources
 </details>
 
 
-<details><summary><b>Docker</b></summary>
-
-## Listing
-```
-ps          List containers
-images      List images
-port        List port mappings or a specific mapping for the container
-```
-
-## Image
-```
-pull        Pull an image or a repository from a registry
-push        Push an image or a repository to a registry
-
-build       Build an image from a Dockerfile
-load        Load an image from a tar archive or STDIN
-
-history     Show the history of an image
-
-commit      Create a new image from a container's changes
-save        Save one or more images to a tar archive (streamed to STDOUT by default)
-rmi         Remove one or more images
-tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
-```
-
-## Container
-```
-create      Create a new container
-rename      Rename a container
-update      Update configuration of one or more containers
-rm          Remove one or more containers
-
-run         Run a command in a new container
-exec        Run a command in a running container
-
-start       Start one or more stopped containers
-restart     Restart one or more containers
-stop        Stop one or more running containers
-kill        Kill one or more running containers
-wait        Block until one or more containers stop, then print their exit codes
-
-pause       Pause all processes within one or more containers
-unpause     Unpause all processes within one or more containers
-
-attach      Attach local standard input, output, and error streams to a running container
-top         Display the running processes of a container
-stats       Display a live stream of container(s) resource usage statistics
-logs        Fetch the logs of a container
-```
-
-## Container fs
-```
-diff        Inspect changes to files or directories on a container's filesystem
-cp          Copy files/folders between a container and the local filesystem
-export      Export a container's filesystem as a tar archive
-import      Import the contents from a tarball to create a filesystem image
-```
-
-## Docker
-```
-search      Search the Docker Hub for images
-
-version     Show the Docker version information
-info        Display system-wide information
-inspect     Return low-level information on Docker objects
-events      Get real time events from the server
-
-deploy      Deploy a new stack or update an existing stack
-```
-
-</details>
-
-
 <details><summary><b>WordPress</b></summary>
 
 # WordPress tips
 I have been working with WordPress more then four years here is my tools I have found useful.
 
 ##  Tips
-- [How to run WordPress via Node.js and Express?](https://www.youtube.com/watch?v=gqKaZO9epHM)
 - [SiteOrigin PageBuilder model](res/SiteOrigin-Page-Builder-model.pdf)
 - [My official plugins](https://profiles.wordpress.org/pravdomil/#content-plugins)
 - [And the rest](https://github.com/search?q=user%3Apravdomil+topic%3Awordpress-plugin)
@@ -107,13 +33,6 @@ I have been working with WordPress more then four years here is my tools I have 
 <details><summary><b>Programming Tips</b></summary>
 
 # Programming tips
-Well there are all the things I have found useful.
-
-## Code style
-**Outside classes** lowercase with underscore  
-**Inside classes** camelCase
-
-And double quotes.
 
 ## Tools
 *   [Domain generator](https://www.dotomator.com/web20.html)
@@ -231,23 +150,21 @@ Create symlink
 <details><summary><b>macOS tip and tricks</b></summary>
 
 # macOS tip and tricks
-Some of them.
 
 ## Recommended settings
 Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/blob/master/.osx).
 
-- On install screen do not use iCloud to login, you can't change login password otherwise.
--  Use all trackpad gestures. Set tracking speed to 100%. Go to Accessibility and Mouse & Trackpad and enable three finger drag.
--  Rename your Mac in Sharing.
-- Create folder called home in user directory and add it to favorites. Next favorites are: User and Downloads. Use home folder as default one. Show current Mac in sidebar. Show path and status bar.
-- Go to screen saver and hot corners and set left top hot corner to put display to sleep.
-- Organize by apps developer in Launchpad.
-- Turn off alert volume in sound preferences. Show volume in menu bar.
-- Require password after 5 seconds in Security & privacy  
-settings. Set lock message to your telephone number.
-- Allow unrestricted access to websites for guest account in parent controls.
-- Turn off keyboard backlight after 1 minute in Keyboard preferences. Turn off smart quotes and auto correcting.
-- Use iCloud and import photos from photo stream in iPhoto.
+- Do not use iCloud to login, you can't change login password otherwise.
+- Trackpad: Use all gestures and set speed to 100%.
+- Accessibility - Mouse & Trackpad: enable three finger drag.
+- Sharing: Rename your Mac.
+- Finder: Create folder home in user directory and use it as default one. Favorites are: Home, User, Downloads.
+- Finder Preferences: Show current Mac in sidebar and show path and status bar.
+- Screen Saver: set hot corners - left top: put display to sleep.
+- Sound: Turn off alert volume and show volume in menu bar.
+- Security & privacy: require password after 5 seconds in settings and set lock message to your telephone number.
+- Parent Controls: Allow unrestricted access to websites for guest account?
+- Keyboard: Turn off keyboard backlight after 1 minute and turn off smart quotes and auto correcting.
 - Install [Pravdomil keyboard](https://github.com/pravdomil/keyboard#readme)
 
 ## Tips
@@ -257,7 +174,6 @@ settings. Set lock message to your telephone number.
 
 ## Software
 - [1Password](https://agilebits.com/downloads)
-- [SourceTree](https://www.sourcetreeapp.com/download/)
 - [VLC](http://www.videolan.org/vlc/download-macosx.html)
 - [Skype](http://www.skype.com/en/download-skype/skype-for-computer/) (turn off sounds)
 - [VirtualBox](http://download.virtualbox.org/virtualbox/4.3.28/VirtualBox-4.3.28-100309-OSX.dmg)
