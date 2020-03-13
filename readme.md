@@ -10,9 +10,7 @@
 - [SiteOrigin PageBuilder model](res/SiteOrigin-Page-Builder-model.pdf)
 - [My official plugins](https://profiles.wordpress.org/pravdomil/#content-plugins)
 - [And the rest](https://github.com/search?q=user%3Apravdomil+topic%3Awordpress-plugin)
-
-### Little cheat sheet
-![](https://www.rarst.net/images/query_functions.png)
+- [Little cheat sheet](https://www.rarst.net/images/query_functions.png)
 
 # Programming Tips
 
