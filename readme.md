@@ -4,20 +4,19 @@
 
 </div>
 
-
 # WordPress Tips
 
-## Tips
+### Tips
 - [SiteOrigin PageBuilder model](res/SiteOrigin-Page-Builder-model.pdf)
 - [My official plugins](https://profiles.wordpress.org/pravdomil/#content-plugins)
 - [And the rest](https://github.com/search?q=user%3Apravdomil+topic%3Awordpress-plugin)
 
-## Little cheat sheet
+### Little cheat sheet
 ![](https://www.rarst.net/images/query_functions.png)
 
 # Programming Tips
 
-## Tools
+### Tools
 *   [Domain generator](https://www.dotomator.com/web20.html)
 *   [Dead link checker](http://www.deadlinkchecker.com/)
 *   [What's my DNS](https://www.whatsmydns.net)
@@ -25,7 +24,7 @@
 *   [Front‑end code quality](http://yellowlab.tools)
 *   [regex101.com](https://www.regex101.com)
  
-## Resources
+### Resources
 *   [Can I use](http://caniuse.com/)
 *   [HTML5.diff](https://www.w3.org/TR/html5-diff/)
 *   [Command line args formatting](http://docopt.org/)
@@ -50,7 +49,7 @@
 *   [WebApps base css](https://code.google.com/p/chromium/codesearch#chromium/src/extensions/renderer/resources/platform_app.css)
 *   [Snakes, Neural Networks and Genetic Algorithms](https://www.youtube.com/watch?v=BBLJFYr7zB8)
 
-## macOS
+### macOS
 *   [Swift introduction](http://www1.cs.columbia.edu/~aho/cs6998/Lectures/14-09-22_Roark_Swift.pdf)
 *   [Swift basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
 *   [Layer Backed Views](http://www.cocoacrumbs.com/blog/?p=106)
@@ -59,13 +58,13 @@
 *   [Apple sample codes for OS X](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
 *   [Receiving and modifying key presses](http://osxbook.com/book/bonus/chapter2/alterkeys/)
 
-## JavaScript
+### JavaScript
 *   [The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html)
 *   [Coding style](https://github.com/feross/standard)
 *   [ES6 features](http://es6-features.org/)
 *   [ES6 Support matrix](https://kangax.github.io/compat-table/es6/)
 
-## Node.js
+### Node.js
 *   [Reference all](https://nodejs.org/api/all.html)
 *   [From PHP to Node.js](https://strongloop.com/strongblog/node-js-php-get-started/)
 *   [Closure compiler](http://closure-compiler.appspot.com/home)
@@ -78,7 +77,7 @@
 *   [Hashbang](https://en.wikipedia.org/wiki/Shebang_(Unix))
     *   \#!/usr/bin/env node
 
-## Frontend
+### Frontend
 *   Typography
     *   [Web typography](http://webtypography.net/toc/)
     *   [Baseline basics on Smashing magazine](http://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
@@ -98,17 +97,17 @@
 *   [Role of animation](https://www.youtube.com/watch?v=GxOq1bnlZXk)
 *   [Polyfill.io](https://polyfill.io/v2/docs)
 
-## Web done right
+### Web done right
 - [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
 - [Vanilla JS](http://vanilla-js.com)
 - [CDN & HTTPs 2.0](https://www.cloudflare.com)
 
-## Optional
+### Optional
 - [Rembased design](http://rembased.pravdomil.com)
 - [Pravidla typografie](https://pravidla-typografie.pravdomil.com)
 - [Ochrana jednoznakovek](https://github.com/pravdomil/wp-no-orphans)
 
-## Ubuntu server
+### Ubuntu server
 Initial setup
 ```
 	ssh‑copy‑id root@$IP
@@ -127,12 +126,9 @@ SSH tunel
 Create symlink  
 `ln -s SOURCE SYMLINK`
 
-
 # macOS tip and tricks
 
-# macOS tip and tricks
-
-## Recommended settings
+### Recommended settings
 Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/blob/master/.osx).
 
 - Do not use iCloud to login, you can't change login password otherwise.
@@ -148,12 +144,12 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - Keyboard: Turn off keyboard backlight after 1 minute and turn off smart quotes and auto correcting.
 - Install [Pravdomil keyboard](https://github.com/pravdomil/keyboard#readme)
 
-## Tips
+### Tips
 - [How to properly use drag and drop](http://apple.stackexchange.com/questions/42429/how-to-properly-use-drag-and-drop-with-macbook-pro-on-os-x-10-7).
 - [Why is Safari faster then Chrome?](https://www.youtube.com/watch?v=866eA-OnXFc)
 - Use ⌥drag to set default Finder column width.
 
-## Software
+### Software
 - [1Password](https://agilebits.com/downloads)
 - [VLC](http://www.videolan.org/vlc/download-macosx.html)
 - [Skype](http://www.skype.com/en/download-skype/skype-for-computer/) (turn off sounds)
@@ -167,12 +163,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [SetResX](https://www.sendspace.com/file/mef6sk)
 - [SQLite Browser](http://sqlitebrowser.org/)
 
-
-# Learn TypeScript
-
 # Electronic Tips
-
-# Useful tools for building electronics
 
 - [Falstad](http://www.falstad.com/circuit/)
 - [Ohm calc](http://www.elektro-energetika.cz/calculations/ohm_zak.php)
@@ -182,22 +173,21 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Ohm's law chart](https://cdn.shopify.com/s/files/1/0792/1843/files/misthub-ohms-law-chart1.png)
 
 
-# Cheat Sheets for Adobe
 
 # Cheat sheets for Adobe
 
-## Adobe After Effects
+### Adobe After Effects
 [![ae](res/ae/ae.png)](res/ae/ae.pdf)
 
-## Adobe Illustrator
+### Adobe Illustrator
 [![ai](res/ai/ai.png)](res/ai/ai.pdf)
-
-
-## Donate
-
-Does `Tip and Tricks` help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=help%20Beer).
 
 
 # Booklet Flow
 
 ![booklet flow](res/bookletflow.png)
+
+# Donate
+
+Does `Tip and Tricks` help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=help%20Beer).
+
