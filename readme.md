@@ -190,4 +190,4 @@ Create symlink
 
 # Donate
 
-Does Tip and Tricks help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=help%20Beer).
+Does Tips and Tricks help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=help%20Beer).
