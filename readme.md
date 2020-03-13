@@ -1,6 +1,6 @@
 <div align="center">
 
-# Notes
+# Tip and Tricks
 
 </div>
 
@@ -801,4 +801,4 @@ export let number = 1;
 
 ## Donate
 
-Does `my notes` help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=help%20Beer).
+Does `Tip and Tricks` help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=help%20Beer).
