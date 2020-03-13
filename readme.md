@@ -163,14 +163,14 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 ### Server Setup
 
 ```
-	ssh‑copy‑id root@$IP
-	ssh root@$IP
-	update‑locale LC_ALL=en_US.UTF‑8 LANG=en_US.UTF‑8
-	logout
-	ssh root@$IP
-	apt update
-	apt upgrade
-	reboot
+ssh‑copy‑id root@$IP
+ssh root@$IP
+update‑locale LC_ALL=en_US.UTF‑8 LANG=en_US.UTF‑8
+logout
+ssh root@$IP
+apt update
+apt upgrade
+reboot
 ```
 
 SSH tunel  
