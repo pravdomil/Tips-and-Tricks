@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tip and Tricks
+# Tips and Tricks
 
 </div>
 
