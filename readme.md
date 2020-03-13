@@ -5,14 +5,7 @@
 </div>
 
 
-<details><summary><b>Booklet Flow</b></summary>
-
-![booklet flow](res/bookletflow.png)
-
-</details>
-
-
-<details><summary><b>WordPress Tips</b></summary>
+# WordPress Tips
 
 ## Tips
 - [SiteOrigin PageBuilder model](res/SiteOrigin-Page-Builder-model.pdf)
@@ -21,11 +14,6 @@
 
 ## Little cheat sheet
 ![](https://www.rarst.net/images/query_functions.png)
-
-</details>
-
-
-<details><summary><b>Programming Tips</b></summary>
 
 # Programming Tips
 
@@ -139,10 +127,8 @@ SSH tunel
 Create symlink  
 `ln -s SOURCE SYMLINK`
 
-</details>
 
-
-<details><summary><b>macOS tip and tricks</b></summary>
+# macOS tip and tricks
 
 # macOS tip and tricks
 
@@ -181,12 +167,10 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [SetResX](https://www.sendspace.com/file/mef6sk)
 - [SQLite Browser](http://sqlitebrowser.org/)
 
-</details>
 
+# Learn TypeScript
 
-<details><summary><b>Learn TypeScript</b></summary>
-
-<details><summary><b>Electronic Tips</b></summary>
+# Electronic Tips
 
 # Useful tools for building electronics
 
@@ -197,10 +181,8 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Ohm's law analogy](http://dc226.4shared.com/img/p8u2UKlcce/s24/147267bf278/ohms-law-illustrated)
 - [Ohm's law chart](https://cdn.shopify.com/s/files/1/0792/1843/files/misthub-ohms-law-chart1.png)
 
-</details>
 
-
-<details><summary><b>Cheat Sheets for Adobe</b></summary>
+# Cheat Sheets for Adobe
 
 # Cheat sheets for Adobe
 
@@ -210,9 +192,12 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 ## Adobe Illustrator
 [![ai](res/ai/ai.png)](res/ai/ai.pdf)
 
-</details>
-
 
 ## Donate
 
 Does `Tip and Tricks` help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=help%20Beer).
+
+
+# Booklet Flow
+
+![booklet flow](res/bookletflow.png)
