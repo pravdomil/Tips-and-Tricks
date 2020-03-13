@@ -61,6 +61,8 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 
 # Programming Tips
 
+- [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+
 ### Tools
 
 - [Domain generator](https://www.dotomator.com/web20.html)
