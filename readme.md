@@ -1,9 +1,7 @@
 <div align="center">
 
-# Help
+# Notes
 
-Things I 
-  
 </div>
 
 
@@ -17,7 +15,6 @@ Things I
 <details><summary><b>WordPress</b></summary>
 
 # WordPress tips
-I have been working with WordPress more then four years here is my tools I have found useful.
 
 ##  Tips
 - [SiteOrigin PageBuilder model](res/SiteOrigin-Page-Builder-model.pdf)
@@ -804,4 +801,4 @@ export let number = 1;
 
 ## Donate
 
-Does `help` help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=help%20Beer).
+Does `my notes` help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=help%20Beer).
