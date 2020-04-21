@@ -4,13 +4,13 @@
 
 </div>
 
-# Misc
+## Misc
 
 - [Adobe After Effects Cheat sheet](res/ae/ae.pdf)
 - [Adobe Illustrator Cheat sheet](res/ai/ai.pdf)
 - [Booklet Flow](res/bookletflow.png)
 
-# macOS Tip and Tricks
+## macOS Tip and Tricks
 
 ### Recommended Settings
 
@@ -50,7 +50,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [SetResX](https://www.sendspace.com/file/mef6sk)
 - [SQLite Browser](http://sqlitebrowser.org/)
 
-# Electronic Tips
+## Electronic Tips
 
 - [Falstad](http://www.falstad.com/circuit/)
 - [Ohm calc](http://www.elektro-energetika.cz/calculations/ohm_zak.php)
@@ -59,7 +59,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Ohm's law analogy](http://dc226.4shared.com/img/p8u2UKlcce/s24/147267bf278/ohms-law-illustrated)
 - [Ohm's law chart](https://cdn.shopify.com/s/files/1/0792/1843/files/misthub-ohms-law-chart1.png)
 
-# Programming Tips
+## Programming Tips
 
 - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
@@ -188,6 +188,6 @@ Create symlink
 - [And the rest](https://github.com/search?q=user%3Apravdomil+topic%3Awordpress-plugin)
 - [Little cheat sheet](https://www.rarst.net/images/query_functions.png)
 
-# Donate
+## Donate
 
 Does Tips and Tricks help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=Tips%20and%20Tricks%20Beer).
