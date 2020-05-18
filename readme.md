@@ -27,7 +27,8 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - Security & privacy: require password after 5 seconds in settings and set lock message to your telephone number.
 - Parent Controls: Allow unrestricted access to websites for guest account?
 - Keyboard: Turn off keyboard backlight after 1 minute and turn off smart quotes and auto correcting.
-- Install [Pravdomil keyboard](https://github.com/pravdomil/keyboard#readme)
+- Install [Pravdomil keyboard](https://github.com/pravdomil/keyboard#readme).
+- [Keep Preview from autoresizing print output](https://apple.stackexchange.com/questions/2931/keep-preview-from-autoresizing-print-output).
 
 ### Tips
 
