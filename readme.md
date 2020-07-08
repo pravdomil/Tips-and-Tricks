@@ -21,14 +21,13 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - Accessibility - Mouse & Trackpad: Enable three finger drag.
 - Sharing: Rename your Mac.
 - Finder: Create folder called "home" in user directory and use it as default one. Favorites are: Home, User, Downloads.
-- Finder Preferences: Enable "Show Path" and "Show Status Bar" and "Keep folders on top".
+- Finder Preferences: Enable "Show Path", "Show Status Bar", "Keep folders on top", "Remove items from the Trash after 30 days" and do not show things on the desktop.
 - Screen Saver: Set left top hot corner to "Put Display to Sleep".
 - Sound: Turn off alert volume and show volume in menu bar?
 - Security & Privacy: Set require password after "5 seconds". Set show a message when the screen locked to your contact information.
 - Keyboard: Turn off keyboard backlight after 1 minute? Turn off smart quotes and auto correcting.
 - Install [Pravdomil keyboard](https://github.com/pravdomil/keyboard#readme).
 - [Keep Preview from autoresizing print output](https://apple.stackexchange.com/questions/2931/keep-preview-from-autoresizing-print-output).
-- Storage Management: Turn on "Empty Trash Automatically After 30 Days" feature.
 
 ### Tips
 
