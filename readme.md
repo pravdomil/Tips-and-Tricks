@@ -97,6 +97,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Intro to three.js](http://davidscottlyons.com/threejs/presentations/frontporch14/#slide-110)
 - [WebApps base css](https://code.google.com/p/chromium/codesearch#chromium/src/extensions/renderer/resources/platform_app.css)
 - [Snakes, Neural Networks and Genetic Algorithms](https://www.youtube.com/watch?v=BBLJFYr7zB8)
+- [TLS Connection](https://tls13.ulfheim.net/)
 
 ### macOS
 
