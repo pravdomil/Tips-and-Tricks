@@ -156,6 +156,8 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
 - [Vanilla JS](http://vanilla-js.com)
 - [CDN & HTTPs 2.0](https://www.cloudflare.com)
+- [How to Use JSON in MySQL Wrong](https://www.slideshare.net/billkarwin/how-to-use-json-in-mysql-wrong) 
+- [How to Design Indexes, Really](https://www.slideshare.net/billkarwin/how-to-design-indexes-really)
 
 ### Optional
 
