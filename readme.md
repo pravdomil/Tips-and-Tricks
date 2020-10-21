@@ -163,12 +163,6 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [How to Use JSON in MySQL Wrong](https://www.slideshare.net/billkarwin/how-to-use-json-in-mysql-wrong) 
 - [How to Design Indexes, Really](https://www.slideshare.net/billkarwin/how-to-design-indexes-really)
 
-### Optional
-
-- [Rembased design](http://rembased.pravdomil.com)
-- [Pravidla typografie](https://pravidla-typografie.pravdomil.com)
-- [Ochrana jednoznakovek](https://github.com/pravdomil/wp-no-orphans)
-
 ### Server Setup
 
 ```
