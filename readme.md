@@ -151,6 +151,9 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Role of animation](https://www.youtube.com/watch?v=GxOq1bnlZXk)
 - [Polyfill.io](https://polyfill.io/v2/docs)
 
+### Elm
+- [Reusable views instead of nested components](https://gist.github.com/rofrol/fd46e9570728193fddcc234094a0bd99)
+
 ### Things
 
 - [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
