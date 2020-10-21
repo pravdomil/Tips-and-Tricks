@@ -98,6 +98,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [WebApps base css](https://code.google.com/p/chromium/codesearch#chromium/src/extensions/renderer/resources/platform_app.css)
 - [Snakes, Neural Networks and Genetic Algorithms](https://www.youtube.com/watch?v=BBLJFYr7zB8)
 - [TLS Connection](https://tls13.ulfheim.net/)
+- [x86 Assembly Language Programming](https://cs.lmu.edu/~ray/notes/x86assembly/)
 
 ### macOS
 
