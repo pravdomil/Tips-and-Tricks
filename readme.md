@@ -155,6 +155,9 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 ### Elm
 - [Reusable views instead of nested components](https://gist.github.com/rofrol/fd46e9570728193fddcc234094a0bd99)
 
+### Mongo
+- [Mongo indexing on object arrays vs objects](https://stackoverflow.com/questions/9589856/mongo-indexing-on-object-arrays-vs-objects)
+
 ### Things
 
 - [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
