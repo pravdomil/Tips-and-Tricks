@@ -154,6 +154,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 
 ### Elm
 - [Reusable views instead of nested components](https://gist.github.com/rofrol/fd46e9570728193fddcc234094a0bd99)
+- [Child-Parent Communication in Elm: OutMsg vs Translator vs NoMap](https://medium.com/@_rchaves_/child-parent-communication-in-elm-outmsg-vs-translator-vs-nomap-patterns-f51b2a25ecb1)
 
 ### Mongo
 - [Mongo indexing on object arrays vs objects](https://stackoverflow.com/questions/9589856/mongo-indexing-on-object-arrays-vs-objects)
