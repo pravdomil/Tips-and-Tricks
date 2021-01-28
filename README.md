@@ -55,64 +55,29 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 
 ## Programming
 
+**Tools**
+
+- [Domain Generator](https://www.dotomator.com/web20.html)
+- [Dead Link Checker](http://www.deadlinkchecker.com/)
+- [What's My DNS](https://www.whatsmydns.net)
+- [Regex101.com](https://www.regex101.com)
+- [Can I use](http://caniuse.com/)
+- [Package.json](http://browsenpm.org/package.json)
+- [Nearest named color](http://www.yellowbearjourneys.com/color_themes/color_closest.html)
+
 **Resources**
 
-- [Domain generator](https://www.dotomator.com/web20.html)
-- [Dead link checker](http://www.deadlinkchecker.com/)
-- [What's my DNS](https://www.whatsmydns.net)
-- [Web page test](https://www.webpagetest.org)
-- [Front‑end code quality](http://yellowlab.tools)
-- [regex101.com](https://www.regex101.com)
-- [Can I use](http://caniuse.com/)
 - [HTML5.diff](https://www.w3.org/TR/html5-diff/)
 - [Command line args formatting](http://docopt.org/)
-- [CodeCademy](https://www.codecademy.com/learn/javascript)
-- [Csmith](http://embed.cs.utah.edu/csmith/) - proof programming languages
-- [SQL injection car](http://gizmodo.com/5498412/sql-injection-license-plate-hopes-to-foil-euro-traffic-cameras)
-- [Intro to ARM](http://www.opensecuritytraining.info/IntroARM.html)
-- [Bezkontextová gramatika](https://cs.wikipedia.org/wiki/Bezkontextov%C3%A1_gramatika)
-- [Future](http://programmers.stackexchange.com/questions/119095/why-dont-we-store-the-syntax-tree-instead-of-the-source-code)
-- [C's Precedence Table](http://www.csee.umbc.edu/courses/104/fall06/burt/precedenceTable.html)
-- [Forward engineer by day, reverse engineer by night](http://withinrafael.com/)
-- [Cordic](https://cs.wikipedia.org/wiki/CORDIC)
-- [Megahertz myth](https://en.wikipedia.org/wiki/Megahertz_myth)
-- [CamelCase](https://cs.wikipedia.org/wiki/CamelCase)
-- [Sequence container (C++)](<https://en.wikipedia.org/wiki/Sequence_container_(C%2B%2B)>)
-- [Flynn's taxonomy](https://en.wikipedia.org/wiki/Flynn%27s_taxonomy)
 - [Snakes, Neural Networks and Genetic Algorithms](https://www.youtube.com/watch?v=BBLJFYr7zB8)
-- [TLS Connection](https://tls13.ulfheim.net/)
-- [x86 Assembly Language Programming](https://cs.lmu.edu/~ray/notes/x86assembly/)
-- [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
-- [How to Use JSON in MySQL Wrong](https://www.slideshare.net/billkarwin/how-to-use-json-in-mysql-wrong)
-- [How to Design Indexes, Really](https://www.slideshare.net/billkarwin/how-to-design-indexes-really)
 - [Receiving and modifying key presses on macOS](http://osxbook.com/book/bonus/chapter2/alterkeys/)
-- [JavaScript - The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html)
 - [Node.js image processing](https://github.com/lovell/sharp)
 - [Fast, simple I/O library for Arduino](https://github.com/mmarchetti/DirectIO)
-- [Better Random Numbers for Javascript](https://github.com/nquinlan/better-random-numbers-for-javascript-mirror)
 - [SpeakingURL](https://github.com/pid/speakingurl)
-- [Package.json](http://browsenpm.org/package.json)
-- [Hashbang](<https://en.wikipedia.org/wiki/Shebang_(Unix)>)
 - [WordPress Cheat Sheet](https://www.rarst.net/images/query_functions.png)
 - [České služby pro WooCommerce](https://github.com/pavelevap/ceske-sluzby)
-- [Role of animation](https://www.youtube.com/watch?v=GxOq1bnlZXk)
 - [Polyfill.io](https://polyfill.io/v2/docs)
-- Typography
-  - [Web typography](http://webtypography.net/toc/)
-  - [Baseline basics on Smashing magazine](http://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
-  - [Baseline framework by stephanecurzi.me](http://stephanecurzi.me/baselinecss.2009/)
-- CSS
-  - [:target selector](http://www.w3schools.com/cssref/tryit.asp?filename=trycss3_target)
-  - [Flexbox](http://learnlayout.com/flexbox.html) and [flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [flex‑grow](http://stackoverflow.com/a/33212959/3748498)!
-  - [Full browser width bars](https://css-tricks.com/full-browser-width-bars/)
-  - [Nearest named color](http://www.yellowbearjourneys.com/color_themes/color_closest.html)
-- [Render blocking](http://www.phpied.com/css-and-the-critical-path/)
-  - [Speed insights](https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery)
 - [Mongo indexing on object arrays vs objects](https://stackoverflow.com/questions/9589856/mongo-indexing-on-object-arrays-vs-objects)
-
-**Elm**
-
-- [Reusable views instead of nested components](https://gist.github.com/rofrol/fd46e9570728193fddcc234094a0bd99)
 - [Child-Parent Communication in Elm: OutMsg vs Translator vs NoMap](https://medium.com/@_rchaves_/child-parent-communication-in-elm-outmsg-vs-translator-vs-nomap-patterns-f51b2a25ecb1)
 
 **Server Setup**
@@ -129,7 +94,7 @@ reboot
 ```
 
 SSH tunnel  
-`ssh -L LOCAL_PORT:DEST:DEST_PORT TUNEL_USER@TUNEL_SERVER -p PORT`
+`ssh -L LOCAL_PORT:DEST:DEST_PORT TUNNEL_USER@TUNNEL_SERVER -p PORT`
 
 Create symlink  
 `ln -s SOURCE SYMLINK`
