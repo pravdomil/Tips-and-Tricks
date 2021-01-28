@@ -9,6 +9,7 @@
 - [Adobe After Effects Cheat sheet](res/ae/ae.pdf)
 - [Adobe Illustrator Cheat sheet](res/ai/ai.pdf)
 - [Booklet Flow](res/bookletflow.png)
+- [MongoDB Cheat Sheet](res/mongo.md)
 
 ## macOS
 
