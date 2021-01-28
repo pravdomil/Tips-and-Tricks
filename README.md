@@ -53,12 +53,12 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 
 ## Electronic Tips
 
-- [Falstad](http://www.falstad.com/circuit/)
-- [Ohm calc](http://www.elektro-energetika.cz/calculations/ohm_zak.php)
-- [Led resistor calculator](http://www.hebeiltd.com.cn/?p=zz.led.resistor.calculator)
-- [6 band resistor calculator](https://www.eeweb.com/toolbox/6-band-resistor-calculator/)
-- [Ohm's law analogy](http://dc226.4shared.com/img/p8u2UKlcce/s24/147267bf278/ohms-law-illustrated)
-- [Ohm's law chart](https://cdn.shopify.com/s/files/1/0792/1843/files/misthub-ohms-law-chart1.png)
+- [Falstad Circuit Simulator](http://www.falstad.com/circuit/)
+- [Led Resistor Calculator](http://www.hebeiltd.com.cn/?p=zz.led.resistor.calculator)
+- [6 Band Resistor Calculator](https://www.eeweb.com/toolbox/6-band-resistor-calculator/)
+- [Ohm Calc](http://www.elektro-energetika.cz/calculations/ohm_zak.php)
+- [Ohm's Law Analogy](http://dc226.4shared.com/img/p8u2UKlcce/s24/147267bf278/ohms-law-illustrated)
+- [Ohm's Law Chart](https://cdn.shopify.com/s/files/1/0792/1843/files/misthub-ohms-law-chart1.png)
 
 ## Programming Tips
 
