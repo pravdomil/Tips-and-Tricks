@@ -4,7 +4,7 @@
 
 </div>
 
-## Misc
+## Miscellaneous
 
 - [Adobe After Effects Cheat sheet](res/ae/ae.pdf)
 - [Adobe Illustrator Cheat sheet](res/ai/ai.pdf)
@@ -60,8 +60,6 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 
 ## Programming Tips
 
-- [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
-
 ### Tools
 
 - [Domain generator](https://www.dotomator.com/web20.html)
@@ -96,16 +94,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
 - [How to Use JSON in MySQL Wrong](https://www.slideshare.net/billkarwin/how-to-use-json-in-mysql-wrong)
 - [How to Design Indexes, Really](https://www.slideshare.net/billkarwin/how-to-design-indexes-really)
-
-### macOS
-
-- [Swift introduction](http://www1.cs.columbia.edu/~aho/cs6998/Lectures/14-09-22_Roark_Swift.pdf)
-- [Swift basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
-- [Layer Backed Views](http://www.cocoacrumbs.com/blog/?p=106)
-- [CALayer with NSScrollView](http://stackoverflow.com/questions/27442185/calayer-with-nsscrollview-zooming-panning-and-clicking/28256228)
-- [Learn Objective‑C](http://cocoadevcentral.com/d/learn_objectivec/)
-- [Apple sample codes for OS X](https://developer.apple.com/library/mac/navigation/#section=Resource%20Types&topic=Sample%20Code)
-- [Receiving and modifying key presses](http://osxbook.com/book/bonus/chapter2/alterkeys/)
+- [Receiving and modifying key presses on macOS](http://osxbook.com/book/bonus/chapter2/alterkeys/)
 
 ### JavaScript
 
