@@ -62,7 +62,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 
 ## Programming Tips
 
-### Tools
+### Resources
 
 - [Domain generator](https://www.dotomator.com/web20.html)
 - [Dead link checker](http://www.deadlinkchecker.com/)
@@ -70,9 +70,6 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Web page test](https://www.webpagetest.org)
 - [Front‑end code quality](http://yellowlab.tools)
 - [regex101.com](https://www.regex101.com)
-
-### Resources
-
 - [Can I use](http://caniuse.com/)
 - [HTML5.diff](https://www.w3.org/TR/html5-diff/)
 - [Command line args formatting](http://docopt.org/)
@@ -80,7 +77,6 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Csmith](http://embed.cs.utah.edu/csmith/) - proof programming languages
 - [SQL injection car](http://gizmodo.com/5498412/sql-injection-license-plate-hopes-to-foil-euro-traffic-cameras)
 - [Intro to ARM](http://www.opensecuritytraining.info/IntroARM.html)
-- [PHP error_reporting wizard](http://www.bx.com.au/tools/ultimate-php-error-reporting-wizard)
 - [Bezkontextová gramatika](https://cs.wikipedia.org/wiki/Bezkontextov%C3%A1_gramatika)
 - [Future](http://programmers.stackexchange.com/questions/119095/why-dont-we-store-the-syntax-tree-instead-of-the-source-code)
 - [C's Precedence Table](http://www.csee.umbc.edu/courses/104/fall06/burt/precedenceTable.html)
@@ -102,17 +98,12 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Fast, simple I/O library for Arduino](https://github.com/mmarchetti/DirectIO)
 - [Better Random Numbers for Javascript](https://github.com/nquinlan/better-random-numbers-for-javascript-mirror)
 - [SpeakingURL](https://github.com/pid/speakingurl)
-
-### Node.js
-
-- [WordPress knowledge](https://developer.files.wordpress.com/2015/11/whats-new-wpcom2.pdf)
-- [Node.js with Apache](http://stackoverflow.com/questions/9831594/apache-and-node-js-on-the-same-server)
 - [Package.json](http://browsenpm.org/package.json)
 - [Hashbang](<https://en.wikipedia.org/wiki/Shebang_(Unix)>)
-  - \#!/usr/bin/env node
-
-### Frontend
-
+- [WordPress Cheat Sheet](https://www.rarst.net/images/query_functions.png)
+- [České služby pro WooCommerce](https://github.com/pavelevap/ceske-sluzby)
+- [Role of animation](https://www.youtube.com/watch?v=GxOq1bnlZXk)
+- [Polyfill.io](https://polyfill.io/v2/docs)
 - Typography
   - [Web typography](http://webtypography.net/toc/)
   - [Baseline basics on Smashing magazine](http://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
@@ -124,8 +115,6 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
   - [Nearest named color](http://www.yellowbearjourneys.com/color_themes/color_closest.html)
 - [Render blocking](http://www.phpied.com/css-and-the-critical-path/)
   - [Speed insights](https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery)
-- [Role of animation](https://www.youtube.com/watch?v=GxOq1bnlZXk)
-- [Polyfill.io](https://polyfill.io/v2/docs)
 
 ### Elm
 
@@ -154,11 +143,3 @@ SSH tunnel
 
 Create symlink  
 `ln -s SOURCE SYMLINK`
-
-### WordPress Tips
-
-- [SiteOrigin PageBuilder model](res/SiteOrigin-Page-Builder-model.pdf)
-- [My official plugins](https://profiles.wordpress.org/pravdomil/#content-plugins)
-- [And the rest](https://github.com/search?q=user%3Apravdomil+topic%3Awordpress-plugin)
-- [Little cheat sheet](https://www.rarst.net/images/query_functions.png)
-- [České služby pro WooCommerce](https://github.com/pavelevap/ceske-sluzby)
