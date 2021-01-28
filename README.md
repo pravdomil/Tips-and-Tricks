@@ -96,6 +96,10 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [How to Design Indexes, Really](https://www.slideshare.net/billkarwin/how-to-design-indexes-really)
 - [Receiving and modifying key presses on macOS](http://osxbook.com/book/bonus/chapter2/alterkeys/)
 - [JavaScript - The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html)
+- [Node.js image processing](https://github.com/lovell/sharp)
+- [Fast, simple I/O library for Arduino](https://github.com/mmarchetti/DirectIO)
+- [Better Random Numbers for Javascript](https://github.com/nquinlan/better-random-numbers-for-javascript-mirror)
+- [SpeakingURL](https://github.com/pid/speakingurl)
 
 ### Node.js
 
@@ -155,3 +159,4 @@ Create symlink
 - [My official plugins](https://profiles.wordpress.org/pravdomil/#content-plugins)
 - [And the rest](https://github.com/search?q=user%3Apravdomil+topic%3Awordpress-plugin)
 - [Little cheat sheet](https://www.rarst.net/images/query_functions.png)
+- [České služby pro WooCommerce](https://github.com/pavelevap/ceske-sluzby)
