@@ -14,7 +14,7 @@
 
 ## macOS
 
-### Defaults
+**Defaults**
 
 Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/blob/master/.osx).
 
@@ -31,7 +31,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - Install [Pravdomil keyboard](https://github.com/pravdomil/keyboard#readme).
 - [Keep Preview from auto-resizing print output](https://apple.stackexchange.com/questions/2931/keep-preview-from-autoresizing-print-output).
 
-### Tips
+**Tips**
 
 - [How to properly use drag and drop](http://apple.stackexchange.com/questions/42429/how-to-properly-use-drag-and-drop-with-macbook-pro-on-os-x-10-7).
 - Use ⌥drag to set default Finder column width.
@@ -44,7 +44,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
   [Find Any File](http://apps.tempel.org/FindAnyFile/),
   [SetResX](https://www.sendspace.com/file/mef6sk).
 
-## Electronic Tips
+## Electronics
 
 - [Falstad Circuit Simulator](http://www.falstad.com/circuit/)
 - [Led Resistor Calculator](http://www.hebeiltd.com.cn/?p=zz.led.resistor.calculator)
@@ -53,9 +53,9 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Ohm's Law Analogy](http://dc226.4shared.com/img/p8u2UKlcce/s24/147267bf278/ohms-law-illustrated)
 - [Ohm's Law Chart](https://cdn.shopify.com/s/files/1/0792/1843/files/misthub-ohms-law-chart1.png)
 
-## Programming Tips
+## Programming
 
-### Resources
+**Resources**
 
 - [Domain generator](https://www.dotomator.com/web20.html)
 - [Dead link checker](http://www.deadlinkchecker.com/)
@@ -108,17 +108,14 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
   - [Nearest named color](http://www.yellowbearjourneys.com/color_themes/color_closest.html)
 - [Render blocking](http://www.phpied.com/css-and-the-critical-path/)
   - [Speed insights](https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery)
+- [Mongo indexing on object arrays vs objects](https://stackoverflow.com/questions/9589856/mongo-indexing-on-object-arrays-vs-objects)
 
-### Elm
+**Elm**
 
 - [Reusable views instead of nested components](https://gist.github.com/rofrol/fd46e9570728193fddcc234094a0bd99)
 - [Child-Parent Communication in Elm: OutMsg vs Translator vs NoMap](https://medium.com/@_rchaves_/child-parent-communication-in-elm-outmsg-vs-translator-vs-nomap-patterns-f51b2a25ecb1)
 
-### Mongo
-
-- [Mongo indexing on object arrays vs objects](https://stackoverflow.com/questions/9589856/mongo-indexing-on-object-arrays-vs-objects)
-
-### Server Setup
+**Server Setup**
 
 ```
 ssh‑copy‑id root@$IP
