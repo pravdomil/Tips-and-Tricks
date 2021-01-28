@@ -10,9 +10,9 @@
 - [Adobe Illustrator Cheat sheet](res/ai/ai.pdf)
 - [Booklet Flow](res/bookletflow.png)
 
-## macOS Tip and Tricks
+## macOS
 
-### Recommended Settings
+### Defaults
 
 Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/blob/master/.osx).
 
@@ -25,9 +25,9 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - Screen Saver: Set left top hot corner to "Put Display to Sleep".
 - Sound: Turn off alert volume and show volume in menu bar?
 - Security & Privacy: Set require password after "5 seconds". Set show a message when the screen locked to your contact information.
-- Keyboard: Turn off keyboard backlight after 1 minute? Turn off smart quotes and auto correcting.
+- Keyboard: Turn off keyboard backlight after 1 minute? Turn off smart quotes and autocorrecting.
 - Install [Pravdomil keyboard](https://github.com/pravdomil/keyboard#readme).
-- [Keep Preview from autoresizing print output](https://apple.stackexchange.com/questions/2931/keep-preview-from-autoresizing-print-output).
+- [Keep Preview from auto-resizing print output](https://apple.stackexchange.com/questions/2931/keep-preview-from-autoresizing-print-output).
 
 ### Tips
 
@@ -153,10 +153,12 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Polyfill.io](https://polyfill.io/v2/docs)
 
 ### Elm
+
 - [Reusable views instead of nested components](https://gist.github.com/rofrol/fd46e9570728193fddcc234094a0bd99)
 - [Child-Parent Communication in Elm: OutMsg vs Translator vs NoMap](https://medium.com/@_rchaves_/child-parent-communication-in-elm-outmsg-vs-translator-vs-nomap-patterns-f51b2a25ecb1)
 
 ### Mongo
+
 - [Mongo indexing on object arrays vs objects](https://stackoverflow.com/questions/9589856/mongo-indexing-on-object-arrays-vs-objects)
 
 ### Things
@@ -164,7 +166,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
 - [Vanilla JS](http://vanilla-js.com)
 - [CDN & HTTPs 2.0](https://www.cloudflare.com)
-- [How to Use JSON in MySQL Wrong](https://www.slideshare.net/billkarwin/how-to-use-json-in-mysql-wrong) 
+- [How to Use JSON in MySQL Wrong](https://www.slideshare.net/billkarwin/how-to-use-json-in-mysql-wrong)
 - [How to Design Indexes, Really](https://www.slideshare.net/billkarwin/how-to-design-indexes-really)
 
 ### Server Setup
@@ -180,7 +182,7 @@ apt upgrade
 reboot
 ```
 
-SSH tunel  
+SSH tunnel  
 `ssh -L LOCAL_PORT:DEST:DEST_PORT TUNEL_USER@TUNEL_SERVER -p PORT`
 
 Create symlink  
@@ -192,7 +194,3 @@ Create symlink
 - [My official plugins](https://profiles.wordpress.org/pravdomil/#content-plugins)
 - [And the rest](https://github.com/search?q=user%3Apravdomil+topic%3Awordpress-plugin)
 - [Little cheat sheet](https://www.rarst.net/images/query_functions.png)
-
-## Donate
-
-Does Tips and Tricks help you? [Donate a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=Tips%20and%20Tricks%20Beer).
