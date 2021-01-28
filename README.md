@@ -95,13 +95,7 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [How to Use JSON in MySQL Wrong](https://www.slideshare.net/billkarwin/how-to-use-json-in-mysql-wrong)
 - [How to Design Indexes, Really](https://www.slideshare.net/billkarwin/how-to-design-indexes-really)
 - [Receiving and modifying key presses on macOS](http://osxbook.com/book/bonus/chapter2/alterkeys/)
-
-### JavaScript
-
-- [The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html)
-- [Coding style](https://github.com/feross/standard)
-- [ES6 features](http://es6-features.org/)
-- [ES6 Support matrix](https://kangax.github.io/compat-table/es6/)
+- [JavaScript - The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html)
 
 ### Node.js
 
