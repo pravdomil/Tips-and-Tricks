@@ -93,6 +93,9 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 - [Snakes, Neural Networks and Genetic Algorithms](https://www.youtube.com/watch?v=BBLJFYr7zB8)
 - [TLS Connection](https://tls13.ulfheim.net/)
 - [x86 Assembly Language Programming](https://cs.lmu.edu/~ray/notes/x86assembly/)
+- [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
+- [How to Use JSON in MySQL Wrong](https://www.slideshare.net/billkarwin/how-to-use-json-in-mysql-wrong)
+- [How to Design Indexes, Really](https://www.slideshare.net/billkarwin/how-to-design-indexes-really)
 
 ### macOS
 
@@ -148,12 +151,6 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 ### Mongo
 
 - [Mongo indexing on object arrays vs objects](https://stackoverflow.com/questions/9589856/mongo-indexing-on-object-arrays-vs-objects)
-
-### Things
-
-- [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
-- [How to Use JSON in MySQL Wrong](https://www.slideshare.net/billkarwin/how-to-use-json-in-mysql-wrong)
-- [How to Design Indexes, Really](https://www.slideshare.net/billkarwin/how-to-design-indexes-really)
 
 ### Server Setup
 
