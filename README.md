@@ -35,13 +35,14 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 
 - [How to properly use drag and drop](http://apple.stackexchange.com/questions/42429/how-to-properly-use-drag-and-drop-with-macbook-pro-on-os-x-10-7).
 - Use ⌥drag to set default Finder column width.
-- [VLC](http://www.videolan.org/vlc/download-macosx.html)
-- [Keka](http://www.kekaosx.com/en/)
-- [Retinizer](http://retinizer.mikelpr.com/)
-- [GrandPerspective](http://sourceforge.net/projects/grandperspectiv/files/latest/download)
-- [AppCleaner](http://www.freemacsoft.net/appcleaner/)
-- [Find Any File](http://apps.tempel.org/FindAnyFile/)
-- [SetResX](https://www.sendspace.com/file/mef6sk)
+- Software:
+  [VLC](http://www.videolan.org/vlc/download-macosx.html),
+  [Keka](http://www.kekaosx.com/en/),
+  [Retinizer](http://retinizer.mikelpr.com/),
+  [GrandPerspective](http://sourceforge.net/projects/grandperspectiv/files/latest/download),
+  [AppCleaner](http://www.freemacsoft.net/appcleaner/),
+  [Find Any File](http://apps.tempel.org/FindAnyFile/),
+  [SetResX](https://www.sendspace.com/file/mef6sk).
 
 ## Electronic Tips
 
