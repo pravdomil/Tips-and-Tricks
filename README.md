@@ -35,21 +35,13 @@ Inspiration goes from [kevinSuttle](https://github.com/kevinSuttle/OSXDefaults/b
 
 - [How to properly use drag and drop](http://apple.stackexchange.com/questions/42429/how-to-properly-use-drag-and-drop-with-macbook-pro-on-os-x-10-7).
 - Use ⌥drag to set default Finder column width.
-
-### Software
-
-- [1Password](https://agilebits.com/downloads)
 - [VLC](http://www.videolan.org/vlc/download-macosx.html)
-- [Skype](http://www.skype.com/en/download-skype/skype-for-computer/) (turn off sounds)
-- [VirtualBox](http://download.virtualbox.org/virtualbox/4.3.28/VirtualBox-4.3.28-100309-OSX.dmg)
-- [CyberDuck](https://cyberduck.io/) (set permissions for uploaded files)
-- [Keka](http://www.kekaosx.com/en/) (don't include DS_Store).
+- [Keka](http://www.kekaosx.com/en/)
 - [Retinizer](http://retinizer.mikelpr.com/)
 - [GrandPerspective](http://sourceforge.net/projects/grandperspectiv/files/latest/download)
 - [AppCleaner](http://www.freemacsoft.net/appcleaner/)
 - [Find Any File](http://apps.tempel.org/FindAnyFile/)
 - [SetResX](https://www.sendspace.com/file/mef6sk)
-- [SQLite Browser](http://sqlitebrowser.org/)
 
 ## Electronic Tips
 
