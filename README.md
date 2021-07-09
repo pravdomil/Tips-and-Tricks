@@ -6,8 +6,8 @@
 
 ## Miscellaneous
 
-- [Adobe After Effects Cheat sheet](res/ae/ae.pdf)
-- [Adobe Illustrator Cheat sheet](res/ai/ai.pdf)
+- [Adobe After Effects Cheat Sheet](res/ae/ae.pdf)
+- [Adobe Illustrator Cheat Sheet](res/ai/ai.pdf)
 - [MongoDB Cheat Sheet](res/mongo.md)
 - [AVR Instruction Set](res/avr.md)
 - [Booklet Flow](res/bookletflow.png)
